@@ -1,8 +1,8 @@
 namespace MoveCircle
 {
-    public partial class Form1 : Form
+    public partial class FormBallGame : Form
     {
-        public Form1()
+        public FormBallGame()
         {
             InitializeComponent();
         }
