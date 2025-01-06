@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoveCircle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81441b14875fddbc427cef3cda996d142482add5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoveCircle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoveCircle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

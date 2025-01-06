@@ -1,0 +1,17 @@
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\bin\Debug\net6.0-windows\MoveCircle.exe
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\bin\Debug\net6.0-windows\MoveCircle.deps.json
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\bin\Debug\net6.0-windows\MoveCircle.runtimeconfig.json
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\bin\Debug\net6.0-windows\MoveCircle.dll
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\bin\Debug\net6.0-windows\MoveCircle.pdb
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.FormBallGame.resources
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.csproj.GenerateResource.cache
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.AssemblyInfoInputs.cache
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.AssemblyInfo.cs
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.csproj.CoreCompileInputs.cache
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.sourcelink.json
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.dll
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\refint\MoveCircle.dll
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.pdb
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\MoveCircle.genruntimeconfig.cache
+D:\dev\windows\src\repos\MoveCircle\MoveCircle\obj\Debug\net6.0-windows\ref\MoveCircle.dll
