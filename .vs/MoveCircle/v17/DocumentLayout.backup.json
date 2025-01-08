@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\dev\\windows\\src\\repos\\MoveCircle\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|d:\\dev\\windows\\src\\repos\\movecircle\\movecircle\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|solutionrelative:movecircle\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|d:\\dev\\windows\\src\\repos\\movecircle\\movecircle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|solutionrelative:movecircle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|d:\\dev\\windows\\src\\repos\\movecircle\\movecircle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|D:\\dev\\windows\\src\\repos\\MoveCircle\\movecircle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0157434-6E9D-46CC-927D-DD3A98A34215}|MoveCircle\\MoveCircle.csproj|solutionrelative:movecircle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,27 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\MoveCircle\\MoveCircle\\Ball.cs",
+              "RelativeDocumentMoniker": "MoveCircle\\Ball.cs",
+              "ToolTip": "D:\\dev\\windows\\src\\repos\\MoveCircle\\MoveCircle\\Ball.cs",
+              "RelativeToolTip": "MoveCircle\\Ball.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:28:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\MoveCircle\\MoveCircle\\Form1.cs",
               "RelativeDocumentMoniker": "MoveCircle\\Form1.cs",
               "ToolTip": "D:\\dev\\windows\\src\\repos\\MoveCircle\\MoveCircle\\Form1.cs",
               "RelativeToolTip": "MoveCircle\\Form1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAcwDoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T13:04:09.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "D:\\dev\\windows\\src\\repos\\MoveCircle\\MoveCircle\\Form1.cs",
               "RelativeDocumentMoniker": "MoveCircle\\Form1.cs",
               "ToolTip": "D:\\dev\\windows\\src\\repos\\MoveCircle\\MoveCircle\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "MoveCircle\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T12:11:07.314Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2025-01-03T12:11:07.314Z"
             }
           ]
         }
