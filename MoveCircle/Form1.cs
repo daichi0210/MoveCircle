@@ -5,7 +5,10 @@ namespace MoveCircle
         // クラス共通の変数
         private Bitmap? canvas;             // 画面下の描画領域
         private string correctText = "萩";   // 正解の文字：1つだけ
-        
+        private Ball balls;                 // ボールを管理
+        private string fontName;            // 表示する漢字のフォント名
+        private double nowTime = 0.0;       // 経過時間
+
         public FormBallGame()
         {
             InitializeComponent();
@@ -13,8 +16,20 @@ namespace MoveCircle
 
         private void FormBallGame_Load(object sender, EventArgs e)
         {
-            DrawCircleSelectPictureBox();
-            DrawMainPictureBox(Brushes.Gray, correctText);  // 下のPictureBoxに描画する
+            DrawCircleSelectPictureBox();   // 上のPictureBoxに円を描く
+            DrawMainPictureBox(Brushes.Gray, correctText);  // 下のPictureBoxに円を描く
+            textHunt.Text = correctText;    // 正解の文字を設定
+            fontName = textHunt.Font.Name;  // textHuntに設定したフォントと同じフォントにする
+
+            // ボールクラスのインスタンス作成
+            balls = new Ball(mainPictureBox, canvas, Brushes.LightBlue, correctText, fontName);
+
+            // 位置 100, 100 にボールを置く
+            balls.PutCircle(100, 100);
+
+            // タイマーをスタートさせる
+            nowTime = 0.0;
+            timer1.Start();
         }
 
         private void selectPictureBox_MouseClick(object sender, MouseEventArgs e)
@@ -29,7 +44,9 @@ namespace MoveCircle
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-
+            balls.Move();
+            nowTime += 0.02;
+            textTimer.Text = nowTime.ToString("0.00");
         }
 
         private void DrawCircleSelectPictureBox()
